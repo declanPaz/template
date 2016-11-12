@@ -1,0 +1,22 @@
+{
+  "name": "ls",
+  "description": "bower for kjb",
+  "main": "index.js",
+  "authors": [
+    "kb"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src/components"
+  ],
+  "devDependencies": {
+    "angular": "angular2#^1.5.8",
+    "bootstrap": "^3.3.7"
+  }
+}
